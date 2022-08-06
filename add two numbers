@@ -3,7 +3,7 @@
 int main ()
 {
 int num1, num2, sum;
-printf ("Enter two numbers: \n");
+printf ("Enter two numbers to be added: \n");
 scanf ("%d %d",&num1, &num2);
 sum= num1+num2;
 printf("Sum of %d and %d is %d",num1, num2, sum);
